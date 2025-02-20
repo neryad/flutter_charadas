@@ -72,7 +72,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 ## 👥 Autores
 
-- Tu Nombre - [@neryad](https://github.com/neryad)
+- Nery - [@neryad](https://github.com/neryad)
 
 ## 🙏 Agradecimientos
 
